@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.The_Artifact_game.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Alirio_Angel\Documents\developer\unity_projects\The_Artifact_game\.idea\.idea.The_Artifact_game\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
